@@ -1,7 +1,7 @@
 ### Sparkle Mass DM Tool:
 Simple Gui Mass DM Tool ;)
 
-### Current Worked Benchmarks::
+### Current Worked Benchmarks:
 - Working: `1000%`
 - Not Working: `0%`
 
